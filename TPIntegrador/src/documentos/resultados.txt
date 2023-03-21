@@ -1,0 +1,4 @@
+Equipo 1;Cantidad Goles 1;Cantidad Goles 2;Equipo 2
+España;1;2;Italia
+Francia;2;2;Brasil
+Argentina;2;1;Inglaterra

@@ -1,0 +1,4 @@
+Equipo 1;Gana 1;Empate;Gana 2;Equipo 2
+España;;;x;Italia
+Francia;;x;;Brasil
+Argentina;;;x;Inglaterra
